@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Category.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Category.json
     body:
       encoding: UTF-8
       string: '{"name":"Category One"}'

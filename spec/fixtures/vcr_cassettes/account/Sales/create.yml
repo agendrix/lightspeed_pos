@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Sale.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Sale.json
     body:
       encoding: UTF-8
       string: '{"taxCategoryID":0,"employeeID":1,"shopID":1,"registerID":1}'
@@ -45,7 +45,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:49:37 GMT
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Sale.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Sale.json
     body:
       encoding: UTF-8
       string: '{"taxCategoryID":0,"employeeID":1,"shopID":1,"registerID":1,"SaleLines":[{"SaleLine":{"itemID":1,"unitQuantity":2,"unitPrice":"1.23","tax":true}}]}'

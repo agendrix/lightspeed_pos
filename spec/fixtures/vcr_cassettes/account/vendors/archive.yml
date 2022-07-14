@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Vendor.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor.json
     body:
       encoding: UTF-8
       string: '{"accountNumber":"bornToDie","name":"Test Vendor 4"}'
@@ -44,7 +44,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:49:52 GMT
 - request:
     method: delete
-    uri: https://api.merchantos.com/API/Account/-/Vendor/712.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor/712.json
     body:
       encoding: US-ASCII
       string: ''
@@ -86,7 +86,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:49:53 GMT
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Vendor.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor.json
     body:
       encoding: UTF-8
       string: '{"accountNumber":"destroyMe","name":"Test Vendor 5"}'
@@ -128,7 +128,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:49:53 GMT
 - request:
     method: delete
-    uri: https://api.merchantos.com/API/Account/-/Vendor/713.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor/713.json
     body:
       encoding: US-ASCII
       string: ''
@@ -170,7 +170,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:49:54 GMT
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Vendor.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor.json
     body:
       encoding: UTF-8
       string: '{"accountNumber":"bornToDie","name":"Test Vendor 4D"}'
@@ -212,7 +212,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:55:15 GMT
 - request:
     method: delete
-    uri: https://api.merchantos.com/API/Account/-/Vendor/714.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor/714.json
     body:
       encoding: US-ASCII
       string: ''
@@ -254,7 +254,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:55:16 GMT
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Vendor.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor.json
     body:
       encoding: UTF-8
       string: '{"accountNumber":"destroyMe","name":"Test Vendor 5E"}'
@@ -296,7 +296,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:55:17 GMT
 - request:
     method: delete
-    uri: https://api.merchantos.com/API/Account/-/Vendor/715.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor/715.json
     body:
       encoding: US-ASCII
       string: ''

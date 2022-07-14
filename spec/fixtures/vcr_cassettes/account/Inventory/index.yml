@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/Inventory.json?limit=100&load_relations=all&offset=0
+    uri: https://api.lightspeedapp.com/API/Account/-/Inventory.json?limit=100&load_relations=all&offset=0
     body:
       encoding: US-ASCII
       string: ''
@@ -145,7 +145,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:46:43 GMT
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/Inventory.json?limit=100&load_relations=all&offset=100
+    uri: https://api.lightspeedapp.com/API/Account/-/Inventory.json?limit=100&load_relations=all&offset=100
     body:
       encoding: US-ASCII
       string: ''
@@ -289,7 +289,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:46:48 GMT
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/Inventory.json?limit=100&load_relations=all&offset=200
+    uri: https://api.lightspeedapp.com/API/Account/-/Inventory.json?limit=100&load_relations=all&offset=200
     body:
       encoding: US-ASCII
       string: ''
@@ -432,7 +432,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:46:52 GMT
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/Inventory.json?limit=100&load_relations=all&offset=300
+    uri: https://api.lightspeedapp.com/API/Account/-/Inventory.json?limit=100&load_relations=all&offset=300
     body:
       encoding: US-ASCII
       string: ''
@@ -575,7 +575,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:46:56 GMT
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/Inventory.json?limit=100&load_relations=all&offset=400
+    uri: https://api.lightspeedapp.com/API/Account/-/Inventory.json?limit=100&load_relations=all&offset=400
     body:
       encoding: US-ASCII
       string: ''
@@ -791,7 +791,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:46:58 GMT
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/Inventory.json?limit=100&load_relations=all&offset=500
+    uri: https://api.lightspeedapp.com/API/Account/-/Inventory.json?limit=100&load_relations=all&offset=500
     body:
       encoding: US-ASCII
       string: ''

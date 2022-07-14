@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/Sale.json?limit=100&load_relations=all&offset=0
+    uri: https://api.lightspeedapp.com/API/Account/-/Sale.json?limit=100&load_relations=all&offset=0
     body:
       encoding: US-ASCII
       string: ''
@@ -116,7 +116,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:49:33 GMT
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/Sale.json?limit=100&load_relations=all&offset=100
+    uri: https://api.lightspeedapp.com/API/Account/-/Sale.json?limit=100&load_relations=all&offset=100
     body:
       encoding: US-ASCII
       string: ''

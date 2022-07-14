@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/SaleLine.json?limit=1&load_relations=all&saleID=2
+    uri: https://api.lightspeedapp.com/API/Account/-/SaleLine.json?limit=1&load_relations=all&saleID=2
     body:
       encoding: US-ASCII
       string: ''

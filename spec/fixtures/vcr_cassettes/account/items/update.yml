@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Item.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Item.json
     body:
       encoding: UTF-8
       string: '{"description":"Item to update"}'
@@ -16,7 +16,7 @@ http_interactions:
       Authorization:
       - OAuth OAuth Token
       Host:
-      - api.merchantos.com
+      - api.lightspeedapp.com
       Content-Length:
       - '32'
       Content-Type:
@@ -50,7 +50,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:48:24 GMT
 - request:
     method: put
-    uri: https://api.merchantos.com/API/Account/-/Item/430.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Item/430.json
     body:
       encoding: UTF-8
       string: '{"description":"T-Shirt Red Small"}'

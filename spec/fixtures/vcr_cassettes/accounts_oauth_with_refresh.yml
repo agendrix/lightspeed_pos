@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account.json?limit=1
+    uri: https://api.lightspeedapp.com/API/Account.json?limit=1
     body:
       encoding: US-ASCII
       string: ''
@@ -47,7 +47,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:46:37 GMT
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account.json?limit=1&load_relations=all
+    uri: https://api.lightspeedapp.com/API/Account.json?limit=1&load_relations=all
     body:
       encoding: US-ASCII
       string: ''
@@ -92,7 +92,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:46:37 GMT
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account.json?limit=1
+    uri: https://api.lightspeedapp.com/API/Account.json?limit=1
     body:
       encoding: US-ASCII
       string: ''
@@ -120,7 +120,7 @@ http_interactions:
       - keep-alive
       Set-Cookie:
       - __cfduid=dc1d4c524ae206ff9d35312ee959ac03c1491266968; expires=Wed, 04-Apr-18
-        00:49:28 GMT; path=/; domain=.merchantos.com; HttpOnly
+        00:49:28 GMT; path=/; domain=.lightspeedapp.com; HttpOnly
       Www-Authenticate:
       - Basic realm="MerchantOS API"
       X-Ls-Master-Account:

@@ -18,7 +18,7 @@ module Lightspeed
     end
 
     def self.base_host
-      "api.merchantos.com"
+      "api.lightspeedapp.com"
     end
 
     def self.base_path

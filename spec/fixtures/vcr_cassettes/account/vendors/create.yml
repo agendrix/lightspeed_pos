@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Vendor.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor.json
     body:
       encoding: UTF-8
       string: '{"accountNumber":"testAccountNumber123","name":"Test Vendor 1A"}'

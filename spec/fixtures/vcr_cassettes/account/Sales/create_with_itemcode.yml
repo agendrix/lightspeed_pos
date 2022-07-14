@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Sale.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Sale.json
     body:
       encoding: UTF-8
       string: '{"taxCategoryID":0,"employeeID":1,"shopID":1,"registerID":1,"SaleLines":[{"SaleLine":{"itemCode":"210000000177","unitQuantity":3,"unitPrice":"0.11","tax":true}}]}'

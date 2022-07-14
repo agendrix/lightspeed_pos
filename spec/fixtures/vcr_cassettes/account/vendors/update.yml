@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Vendor.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor.json
     body:
       encoding: UTF-8
       string: '{"accountNumber":"testAccountNumber456","name":"Test Vendor 2B"}'
@@ -44,7 +44,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:55:18 GMT
 - request:
     method: put
-    uri: https://api.merchantos.com/API/Account/-/Vendor/717.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor/717.json
     body:
       encoding: UTF-8
       string: '{"accountNumber":"testAccountNumber789"}'
@@ -85,7 +85,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:55:19 GMT
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Vendor.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor.json
     body:
       encoding: UTF-8
       string: '{"accountNumber":"testAccountNumber000","name":"Test Vendor 3C"}'
@@ -127,7 +127,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:55:22 GMT
 - request:
     method: put
-    uri: https://api.merchantos.com/API/Account/-/Vendor/718.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Vendor/718.json
     body:
       encoding: UTF-8
       string: '{"accountNumber":"testAccountNumber111"}'

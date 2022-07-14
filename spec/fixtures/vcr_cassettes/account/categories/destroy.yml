@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: post
-    uri: https://api.merchantos.com/API/Account/-/Category.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Category.json
     body:
       encoding: UTF-8
       string: '{"name":"Category to delete"}'
@@ -44,7 +44,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:46:30 GMT
 - request:
     method: delete
-    uri: https://api.merchantos.com/API/Account/-/Category/10.json
+    uri: https://api.lightspeedapp.com/API/Account/-/Category/10.json
     body:
       encoding: US-ASCII
       string: ''
@@ -86,7 +86,7 @@ http_interactions:
   recorded_at: Sat, 13 Feb 2016 00:46:31 GMT
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/Category.json?categoryID=10&limit=1
+    uri: https://api.lightspeedapp.com/API/Account/-/Category.json?categoryID=10&limit=1
     body:
       encoding: US-ASCII
       string: ''

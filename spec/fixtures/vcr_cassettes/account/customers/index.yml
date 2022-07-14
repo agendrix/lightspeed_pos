@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/Customer.json?limit=100&load_relations=all&offset=0
+    uri: https://api.lightspeedapp.com/API/Account/-/Customer.json?limit=100&load_relations=all&offset=0
     body:
       encoding: US-ASCII
       string: ''
@@ -30,7 +30,7 @@ http_interactions:
       - keep-alive
       Set-Cookie:
       - __cfduid=d754ccc41152b7f5dd1a8c5691337c91f1556805709; expires=Fri, 01-May-20
-        14:01:49 GMT; path=/; domain=.merchantos.com; HttpOnly; Secure
+        14:01:49 GMT; path=/; domain=.lightspeedapp.com; HttpOnly; Secure
       X-Frame-Options:
       - SAMEORIGIN
       X-Xss-Protection:

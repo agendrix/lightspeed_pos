@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/Employee.json?limit=100&load_relations=all&offset=0
+    uri: https://api.lightspeedapp.com/API/Account/-/Employee.json?limit=100&load_relations=all&offset=0
     body:
       encoding: US-ASCII
       string: ''

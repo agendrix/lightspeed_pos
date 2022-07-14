@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://api.merchantos.com/API/Account/-/PriceLevel.json?limit=1&load_relations=all&priceLevelID=1
+    uri: https://api.lightspeedapp.com/API/Account/-/PriceLevel.json?limit=1&load_relations=all&priceLevelID=1
     body:
       encoding: US-ASCII
       string: ''
@@ -30,7 +30,7 @@ http_interactions:
       - keep-alive
       Set-Cookie:
       - __cfduid=d08f7da0f6621224c78ccf3cb2c2c000d1507164416; expires=Fri, 05-Oct-18
-        00:46:56 GMT; path=/; domain=.merchantos.com; HttpOnly; Secure
+        00:46:56 GMT; path=/; domain=.lightspeedapp.com; HttpOnly; Secure
       X-Ls-Acct-Id:
       - '132986'
       X-Ls-Oauth-Client-Id:
